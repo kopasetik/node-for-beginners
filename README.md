@@ -3,7 +3,7 @@ node-for-beginners
 
 A list of resources for Node.js Newbies!
 
-|Title|URL|Description|Level of Difficulty*|
+| Title | URL | Description | Level of Difficulty* |
 | ------ | ------ | ------ | ------ | ------ |
 |NodeSchool Learn You Node|http://nodeschool.io|A command line workshopper course for learning Node.js at your own pace|1||
 |Express.js Fundamentals|http://flippinawesome.org/2013/11/11/express-js-fundamentals/|Covers the basics of getting started and core concepts|1||
